@@ -34,6 +34,6 @@ Route::get('privacy-policy', function () {
 Route::get('scientific-calculator', function () {
     return view('website.scientific-calculator');
 });
-Route::get('auto-loan-calculator', function () {
-    return view('website.loan-calculator');
+Route::get('loan-calculator', function () {
+    return view('website.auto-loan-calculator');
 });
