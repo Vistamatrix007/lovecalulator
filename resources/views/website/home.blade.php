@@ -121,7 +121,7 @@ div#Successtext {
           <li><a href="{{ url('calculator')}}">Calculator</a></li>
           <li><a href="{{ url('love-calculator')}}">Love Calculator</a></li>
           <li><a href="{{ url('scientific-calculator')}}">Scientific Calculator</a></li>
-          <li><a href="{{ url('loan-calculator')}}">Auto Loan Calculator</a></li>
+          <li><a href="{{ url('loan-calculator')}}">Loan Calculator</a></li>
           <li><a href="{{ url('privacy-policy')}}">Privacy Policy</a></li>
         </ul>
       </nav><!-- .nav-menu -->
